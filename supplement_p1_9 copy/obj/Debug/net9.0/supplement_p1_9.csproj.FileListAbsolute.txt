@@ -1,0 +1,24 @@
+/Users/jalen4/sp1_9/supplement_p1_9/bin/Debug/net9.0/supplement_p1_9.deps.json
+/Users/jalen4/sp1_9/supplement_p1_9/bin/Debug/net9.0/supplement_p1_9.dll
+/Users/jalen4/sp1_9/supplement_p1_9/bin/Debug/net9.0/supplement_p1_9.pdb
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/supplement_p1_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/supplement_p1_9.AssemblyInfoInputs.cache
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/supplement_p1_9.AssemblyInfo.cs
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/supplement_p1_9.csproj.CoreCompileInputs.cache
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/supplement_p1_9.dll
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/refint/supplement_p1_9.dll
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/supplement_p1_9.pdb
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/ref/supplement_p1_9.dll
+/Users/jalen4/sp1_9/supplement_p1_9/obj/Debug/net9.0/supplement_p1_9.sourcelink.json
+/Users/jalen4/sp1_10/supplement_p1_9 copy/bin/Debug/net9.0/supplement_p1_9.deps.json
+/Users/jalen4/sp1_10/supplement_p1_9 copy/bin/Debug/net9.0/supplement_p1_9.dll
+/Users/jalen4/sp1_10/supplement_p1_9 copy/bin/Debug/net9.0/supplement_p1_9.pdb
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/supplement_p1_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/supplement_p1_9.AssemblyInfoInputs.cache
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/supplement_p1_9.AssemblyInfo.cs
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/supplement_p1_9.csproj.CoreCompileInputs.cache
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/supplement_p1_9.dll
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/refint/supplement_p1_9.dll
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/supplement_p1_9.pdb
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/ref/supplement_p1_9.dll
+/Users/jalen4/sp1_10/supplement_p1_9 copy/obj/Debug/net9.0/supplement_p1_9.sourcelink.json
